@@ -29,6 +29,7 @@ public class AboutMeTest {
 		alex.myShirtSize = 'L';
 		alex.uSCitizen = false;
 		alex.aboutMe(); // Method is initialized here
+		// Test 
 
 	}
 
