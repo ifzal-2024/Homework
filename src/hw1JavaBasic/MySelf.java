@@ -13,10 +13,10 @@ package hw1JavaBasic;
  */
 
 public class MySelf {
-	// Main method: Entry point of Java, is a static method and method name itself
+	// // Main method: Entry point of Java, is a static method and method name itself
 	// is main. Written as : public static void main(String[]args){}
 	public static void main(String[] args) {
-		System.out.println("Name: Muhammad A Mughnee");
+		System.out.println("Name: Muhammad A Mughnee"); 
 		System.out.println("Address: 3100 Northgate Dr, Irving , TX :75062");
 
 	}
