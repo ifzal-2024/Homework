@@ -1,5 +1,5 @@
 package hw16IfElseCondition;
-
+// IfElseCondition
 import java.util.Scanner;
 
 public class Temperature {
